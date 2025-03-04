@@ -14,7 +14,7 @@ Semantic Spotter is a Retrieval-Augmented Generation (RAG) application designed 
 
 
 
-## general-information
+## General-information
 
  **Problem Statement -
 
