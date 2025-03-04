@@ -20,15 +20,15 @@ Semantic Spotter is a Retrieval-Augmented Generation (RAG) application designed 
 
   We are provided with a Insurance policy documents which are given in the form of pdf files. Goal here is to build a simple RAG application on the provided policy pdf document.
 
-  * **Solution Strategy -** Build a POC which should solve the following requirements:
+  * **Solution Strategy -** Build a POC which should solve the following requirement:
 
     * Users would get responses from the Insurance policy document.
 
   * **Goal -** Solving the above the above requirement in the POC would ensure that the accuracy of the overall model is good and therefore further improvisations and customizations make sense.
 
-  * **Data Used -** Insurance Policy document in pdf formate stored in a single folder
+  * **Data Used -** Insurance Policy document in pdf formate stored in a single folder.
 
-  * **Tools used -** LangChain has been used due to its powerful query engine, fast data processing using data loaders and directory readers as well as easier and faster implementation using fewer lines of code.
+  * **Tools used -** LangChain has been used.
 
 The main goal of this project was to build a smart system that can search through documents and give clear, helpful answers to questions.
 
