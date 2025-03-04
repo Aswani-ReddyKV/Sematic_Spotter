@@ -16,7 +16,7 @@ Semantic Spotter is a Retrieval-Augmented Generation (RAG) application designed 
 
 ## General-information
 
- **Problem Statement -**
+ **Problem Statement **
 
   We are provided with a Insurance policy documents which are given in the form of pdf files. Goal here is to build a simple RAG application on the provided policy pdf document.
 
