@@ -1,4 +1,4 @@
-# Semantic Spotter Project ~ Kiran Dalmiya
+# Semantic Spotter
 
 Semantic Spotter is a Retrieval-Augmented Generation (RAG) application designed to efficiently search and answer questions from insurance policy documents. This project leverages LangChain and GPT-3.5-turbo for its functionality.
 
